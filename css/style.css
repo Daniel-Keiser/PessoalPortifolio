@@ -2247,9 +2247,10 @@ body.offcanvas {
   .colorlib-feature .colorlib-icon {
     position: absolute;
     top: 0;
+    margin-top: 1%;
     left: 0;
-    width: 100px;
-    height: 100px;
+    width: 80px;
+    height: 80px;
     display: table;
     text-align: center;
     background:bisque;
@@ -2262,7 +2263,7 @@ body.offcanvas {
       vertical-align: middle;
       color: #000000;
       font-size: 40px;
-      height: 100px; }
+      height: 80px; }
       @media screen and (max-width: 1200px) {
         .colorlib-feature .colorlib-icon i {
           font-size: 40px; } }
