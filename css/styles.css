@@ -2340,8 +2340,8 @@ fieldset:disabled a.btn {
 
 .btn-primary {
   color: #fff;
-  background-color: #fed136;
-  border-color: #fed136;
+  background-color: #077a91;
+  border-color: black;
 }
 .btn-primary:hover {
   color: #fff;
@@ -9513,6 +9513,8 @@ header.masthead .masthead-heading {
 }
 .portfolio-modal .modal-content p {
   margin-bottom: 2rem;
+  color: #121416;
+  
 }
 .portfolio-modal .modal-content ul.list-inline {
   margin-bottom: 2rem;
