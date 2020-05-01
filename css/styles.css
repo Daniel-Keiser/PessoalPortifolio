@@ -9305,15 +9305,7 @@ p {
     padding: 9rem 0;
   }
 }
-::-moz-selection {
-  background: #fed136;
-  text-shadow: none;
-}
 
-::selection {
-  background: #fed136;
-  text-shadow: none;
-}
 
 img::-moz-selection {
   background: transparent;
