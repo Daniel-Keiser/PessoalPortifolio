@@ -1940,6 +1940,7 @@ body.offcanvas {
 .about-desc h3 {
   font-size: 1.10em;;
   text-transform: uppercase;
+  text-align: center;
   letter-spacing: 5px;
   font-weight: 500; }
 
